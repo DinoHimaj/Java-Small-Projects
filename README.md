@@ -6,7 +6,7 @@ This repository contains three basic Java programs that demonstrate fundamental 
 
 The Email Application is a program that generates a company email for a new employee based on their first and last name, department, and a randomly generated password. To run the program, simply execute the Main class. The program prompts the user to enter the employee's name and department, and generates a company email using a standard naming convention. The program also generates a random password and displays it to the user.
 
-## Student Database Managment System
+## 2. Student Database Managment System
 
 The Java Student Database Application is a console application written in Java that allows users to manage a database of students, enroll them in courses, and keep track of their tuition payments.
 
@@ -14,8 +14,8 @@ The application prompts the user to enter the number of students they want to ad
 
 The application also allows the user to view a student's balance at any time and to pay their tuition.
 
-## [Project 3]
+## 3. Bank Account App
 
-[Project 3 Description]
+This project is a simple bank account application built in Java. It reads data from a CSV file to create new bank accounts and provides functionality for depositing, withdrawing, transferring, and showing account information. There are two types of accounts, checking and savings, each with their own unique features. The code also includes a utility class for reading data from CSV files.
 
 
